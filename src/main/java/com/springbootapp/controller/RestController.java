@@ -11,7 +11,7 @@ public class RestController {
 	public User getUser() {
 		
 		System.out.println("coming here ");
-		return new User(222222, "Sreenath done it");
+		return new User(222222, "Sreenath done it again");
 		
 	}
 }
