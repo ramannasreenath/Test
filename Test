@@ -1,8 +1,35 @@
-dsdfdsf LOCAL  dddd dfsdfsdf
-sdsdasd
-ssdfsdaf
+git clone https://github.com/ramannasreenath/Test.git
+git config --global user.name "ramannasreenath"
+git config --global user.email "sreenath.rama@gmail.com"
+git clone https://github.com/ramannasreenath/Test.git
+git checkout -b [branch name] ------ switch branch
+git add *
+git commit -a -m "commit"
+git push
 
+
+
+
+
+
+https://angus.readthedocs.io/en/2014/amazon/transfer-files-between-instance.html
+
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html
 
 https://www.youtube.com/watch?v=mVEHdWM7xfI
 
-neneneensdfsdfsdfdsf
+https://aws.amazon.com/blogs/devops/deploying-a-spring-boot-application-on-aws-using-aws-elastic-beanstalk/
+
+https://www.mkyong.com/spring-boot/spring-boot-hello-world-example-jsp/
+
+
+
+
+<role rolename="manager-gui" />
+<role rolename="admin-script" />
+<role rolename="manager-gui" />
+<role rolename="manager-script" />
+<role rolename="manager-jmx" />
+<role rolename="manager-status" />
+<role rolename="admin" />
+<user username="admin" password="admin" roles="admin,manager-gui,admin-gui,manager-script" /> 
