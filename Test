@@ -33,3 +33,39 @@ https://www.mkyong.com/spring-boot/spring-boot-hello-world-example-jsp/
 <role rolename="manager-status" />
 <role rolename="admin" />
 <user username="admin" password="admin" roles="admin,manager-gui,admin-gui,manager-script" /> 
+
+
+
+1. download jenkins.war
+
+2. add into webapps of tomcat
+
+3. restarte tomcat
+
+4. open link http://loaalhost/jenkins
+
+5. in manage jenkins, add github plugins
+
+6. download maven from https://maven.apache.org/download.cgi
+
+7. install maven-integration plugin
+8. select maven project to create new job
+9. if maven build is not configured it show error , click on link to configure , provide name as maven and provide maven home 
+
+ 
+ 
+
+ 
+ 
+
+10. installer deploy container plugin
+ 
+
+11. 
+ 
+
+ 
+
+ 
+
+
